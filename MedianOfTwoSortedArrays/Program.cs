@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace MedianOfTwoSortedArrays
 {
@@ -58,6 +54,7 @@ namespace MedianOfTwoSortedArrays
 
         //CAMBIO HECHO PARA VER SI SE ACTUALIZA EN GITHUB
         //SEGUNDO CAMBIO PARA VER SI SE ACTUALIZA EN GITHUB
+        //Tercer cambio para ver si actualizacion en github.
 
         // muestra los elementos del array en diferentes lineas.
         //foreach (var item in a_Array)
